@@ -34,7 +34,7 @@
 <img align="right" alt="GIF" height="120px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" />
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/5vg7AyX4KemvJwmPBr/giphy.gif" />
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 ## **I Love All of Them 💙🦉**
 
