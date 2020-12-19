@@ -11,7 +11,7 @@
 
 **Personal Stuffs:**
 - 👨‍💻 I’m currently working on my campus project.
-- 🌱 I've been learning typescript recently.
+- 🌱 I'm currently learning typescript and reactjs.
 - ✨ Really interested in backend-ish things.
 - 🤔 Looking for my latest repo, [js-css-helpers](https://github.com/rllyhz/js-and-css-helpers) ?
 - 📫 Find me on [twitter](https://twitter.com/rullyihza_), [instagram](https://twitter.com/rllyhz) or [facebook](https://www.facebook.com/rully.ihza/).
