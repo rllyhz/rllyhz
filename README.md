@@ -5,7 +5,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/rullyihza_?label=Follow&style=social)](https://twitter.com/rullyihza_)
 [![Instagram Follow](https://img.shields.io/twitter/url?color=Follow&label=Follow&logo=instagram&style=social&url=https%3A%2F%2Finstagram.com%2Frllyhz)](https://instagram.com/rllyhz)
 [![GitHub Follow](https://img.shields.io/github/followers/rllyhz?label=Follow&style=social)](https://github.com/rllyhz)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=rllyhz)
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=rllyhz)](https://github.com/rllyhz)
 
 <br>
 
