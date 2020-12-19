@@ -3,7 +3,7 @@
 <br>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/rullyihza_?label=Follow&style=social)](https://twitter.com/rullyihza_)
-![GitHub Follow](https://img.shields.io/github/followers/rllyhz?label=Follow&style=social)
+[![GitHub Follow](https://img.shields.io/github/followers/rllyhz?label=Follow&style=social)](https://github.com/rllyhz)
 
 
 <br>
