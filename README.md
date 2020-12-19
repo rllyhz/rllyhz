@@ -40,10 +40,9 @@
 
 <br>
 
-<h3 style="margin-top:40rem;"></h3>
+<h3 style="margin-top:3rem;"></h3>
 
 **My Social Media 🦉**
-
 
 | [<img src="images/Instagram.svg" width="30px" />](https://instagram.com/rllyhz) | [<img src="images/Twitter.svg" width="30px" />](https://twitter.com/rullyihza_) | [<img src="images/Gmail.svg" width="30px" />](mailto:rullyihza00@gmail.com) |
 |  --  | --   |  --  |
