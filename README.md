@@ -4,10 +4,10 @@
 <img align="right" alt="GIF" height="125px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" />
 
 **Personal Stuffs:**
-- 🔭 I’m currently working on my campus project
-- 🌱 I’m currently learning typescript
-- ✨ Interested in backend-ish things 
-- 🤔 Looking for help with my [js-css-helpers](https://github.com/rllyhz/js-css-helpers)
+- 👨‍💻 I’m currently working on my campus project.
+- 🌱 I've been learning typescript recently.
+- ✨ Really interested in backend-ish things.
+- 🤔 See my latest repo, [js-css-helpers](https://github.com/rllyhz/js-css-helpers).
 - 📫 Find me on [twitter](https://twitter.com/rullyihza_) or [facebook](https://www.facebook.com/rully.ihza/)
 
 
