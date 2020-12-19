@@ -1,5 +1,13 @@
 ## Hi there, I'm Rully Ihza Mahendra <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
+<br>
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/rullyihza_?label=Follow&style=social)](https://twitter.com/rullyihza_)
+![GitHub followers](https://img.shields.io/github/followers/rllyhz?label=Follow%20me&style=social)
+
+
+<br>
+
 **Personal Stuffs:**
 - 👨‍💻 I’m currently working on my campus project.
 - 🌱 I've been learning typescript recently.
