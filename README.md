@@ -37,7 +37,12 @@
 <img align="right" alt="GIF" height="230px" src="https://media.giphy.com/media/5vg7AyX4KemvJwmPBr/giphy.gif" />
 
 
+**My Social Media 🦉**
 
+|    |    |    |
+| -- | -- | -- |
+| [<img src="images/Instagram.svg" width="30px" />](https://instagram.com/rllyhz) | [<img src="images/Twitter.svg" width="30px" />](https://twitter.com/rullyihza_) | [<img src="images/Gmail.svg" width="30px" />](mailto:rullyihza00@gmail.com) |
+|    |    |    |
 
 <!-- https://cdn.svgporn.com/logos/html-5.svg
 https://cdn.svgporn.com/logos/css-3.svg
