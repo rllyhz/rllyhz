@@ -1,8 +1,5 @@
 ## Hi there, I'm Rully Ihza Mahendra <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<img align="right" alt="GIF" height="125px" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" />
-<img align="right" alt="GIF" height="125px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" />
-
 **Personal Stuffs:**
 - 👨‍💻 I’m currently working on my campus project.
 - 🌱 I've been learning typescript recently.
@@ -12,3 +9,11 @@
 
 
 [![🦉 Rully Ihza Mahendra's github stats](https://github-readme-stats.vercel.app/api?username=rllyhz&show_icons=true&hide_border=true&hide=issues&theme=radical)](https://github.com/rllyhz)
+
+<br>
+
+<img align="right" alt="GIF" height="125px" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" />
+<img align="right" alt="GIF" height="125px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" />
+<!-- <div style="display:flex; flex-direction: column; justify-content: space-between; align-items: center;">
+  
+<div> -->
