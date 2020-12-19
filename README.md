@@ -11,4 +11,4 @@
 - 📫 Find me on [twitter](https://twitter.com/rullyihza_) or [facebook](https://www.facebook.com/rully.ihza/)
 
 
-[![🦉 Yoga Sakti's github stats](https://github-readme-stats.vercel.app/api?username=YogaSakti&show_icons=true&hide_border=true&hide=issues)](https://github.com/YogaSakti)
+[![🦉 Rully Ihza Mahendra's github stats](https://github-readme-stats.vercel.app/api?username=rllyhz&show_icons=true&hide_border=true&hide=issues)](https://github.com/rllyhz)
