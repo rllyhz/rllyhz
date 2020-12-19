@@ -31,8 +31,8 @@
 <!--  -->
 
 <!-- <img align="right" alt="GIF" height="130px" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" /> -->
-<img align="right" alt="GIF" height="120px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" />
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/5vg7AyX4KemvJwmPBr/giphy.gif" />
+[<img align="right" alt="GIF" height="120px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp"/>](https://github.com/rllyhz)
+[<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/5vg7AyX4KemvJwmPBr/giphy.gif" />](https://github.com/rllyhz)
 
 <br><br><br><br><br><br><br><br>
 
