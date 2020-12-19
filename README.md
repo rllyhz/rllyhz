@@ -19,4 +19,4 @@
 <img align="right" style="margin-bottom: 1rem;" alt="GIF" height="125px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" />
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/SBVUOmWz1cKqEo0MB3/giphy.gif" />
+<img style="margin-top: 1rem;" alt="GIF" src="https://media.giphy.com/media/SBVUOmWz1cKqEo0MB3/giphy.gif" />
