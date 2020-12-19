@@ -18,7 +18,8 @@
 <img align="right" alt="GIF" height="125px" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" />
 <img align="right" style="margin-bottom: 1rem;" alt="GIF" height="125px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" />
 
+<br>
 
-<div style="margin-top: 1.2rem;">
+<div align="right" style="margin-top: 1.2rem;">
   <img alt="GIF" src="https://media.giphy.com/media/SBVUOmWz1cKqEo0MB3/giphy.gif" />
 </div>
