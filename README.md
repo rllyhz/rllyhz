@@ -7,7 +7,7 @@
 - 👨‍💻 I’m currently working on my campus project.
 - 🌱 I've been learning typescript recently.
 - ✨ Really interested in backend-ish things.
-- 🤔 See my latest repo, [js-css-helpers](https://github.com/rllyhz/js-css-helpers).
+- 🤔 See my latest repo, [js-css-helpers](https://github.com/rllyhz/js-and-css-helpers).
 - 📫 Find me on [twitter](https://twitter.com/rullyihza_) or [facebook](https://www.facebook.com/rully.ihza/)
 
 
