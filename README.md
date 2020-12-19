@@ -19,15 +19,11 @@
 
 [![🦉 Rully Ihza Mahendra's github stats](https://github-readme-stats.vercel.app/api?username=rllyhz&show_icons=true&hide_border=true&hide=issues&theme=radical)](https://github.com/rllyhz)
 
-<a href="https://github.com/TheDudeThatCode">
+<a href="https://github.com/rllyhz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rllyhz&theme=dark&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/TheDudeThatCode">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rllyhz&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
-</a>
-
-<a href="https://github.com/TheDudeThatCode/css-and-js-helpers">
+<a href="https://github.com/rllyhz/css-and-js-helpers">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rllyhz&repo=js-and-css-helpers&theme=dark" />
 </a>
 
