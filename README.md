@@ -20,7 +20,7 @@
 [![🦉 Rully Ihza Mahendra's github stats](https://github-readme-stats.vercel.app/api?username=rllyhz&show_icons=true&hide_border=true&hide=issues&theme=radical)](https://github.com/rllyhz)
 
 <a href="https://github.com/rllyhz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rllyhz&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rllyhz&theme=dark&hide_langs_below=0.4" />
 </a>
 
 <a href="https://github.com/rllyhz/css-and-js-helpers">
