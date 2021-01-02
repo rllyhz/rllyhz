@@ -58,4 +58,5 @@ https://cdn.svgporn.com/logos/visual-studio-code.svg
 https://cdn.svgporn.com/logos/less.svg
 https://cdn.svgporn.com/logos/sass.svg
 https://cdn.svgporn.com/logos/tailwindcss-icon.svg
+https://cdn.svgporn.com/logos/tailwindcss-icon.svg
 https://cdn.svgporn.com/logos/netlify.svg -->
