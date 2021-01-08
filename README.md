@@ -9,7 +9,7 @@
 
 <br>
 
-**Personal Stuffs:**
+**Personal Stuff:**
 - 👨‍💻 I’m currently working on my campus project.
 - 🌱 I'm currently learning typescript and reactjs.
 - ✨ Really interested in backend-ish things.
