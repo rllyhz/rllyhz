@@ -38,7 +38,7 @@
 </strong></h2>
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 8px; margin-top: 1rem;">
-  <a href="https://github.com/rllyhz/CAP0104-Capstone-Project">
+  <a href="https://github.com/rllyhz/CAP0104-Capstone-Project" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rllyhz&repo=CAP0104-Capstone-Project&theme=dark" />
   </a>
   <a href="https://github.com/rllyhz/flutter-chatR-UI">
