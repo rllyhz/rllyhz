@@ -1,7 +1,7 @@
 <div style="color: #fc6c85;">
-  <h2 style="font-size: 2.1rem;"><strong>
+  <p style="font-size: 2.1rem;"><strong>
     Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-  </strong></h2>
+  </strong></p>
   <h1  style="font-size: 1.6rem;"><strong>I'm Rully Ihza Mahendra.</strong></h1>
 </div>
 
