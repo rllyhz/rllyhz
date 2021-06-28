@@ -17,8 +17,8 @@
   <li>👨‍💻 I’m currently working on my campus project.</li>
   <li>🌱 I'm currently learning kotlin and flutter.</li>
   <li>✨ Also really interested in backend-ish things.</li>
-  <li>🤔 Looking for my latest repo, <a style='color: #ff66cc;' href='https://github.com/rllyhz/flutter-chatR-UI'>flutter-chatR-UI</a> ?</li>
-  <li>📫 Find me on <a style='color: #ff66cc;' href="https://twitter.com/rullyihza_">Twitter</a>, <a style='color: #ff66cc;' href="https://instagram.com/rllyhz">Instagram</a> or <a style='color: #ff66cc;' href="https://www.facebook.com/rully.ihza/">Facebook</a>.</li>
+  <li>🤔 Looking for my latest repo, <a style='color: #ff66cc;' href='https://github.com/rllyhz/flutter-chatR-UI' target="_blank">flutter-chatR-UI</a> ?</li>
+  <li>📫 Find me on <a style='color: #ff66cc;' href="https://twitter.com/rullyihza_" target="_blank">Twitter</a>, <a style='color: #ff66cc;' href="https://instagram.com/rllyhz" target="_blank">Instagram</a> or <a style='color: #ff66cc;' href="https://www.facebook.com/rully.ihza/" target="_blank">Facebook</a>.</li>
 </ul>
 
 <h2 style='color: #ffe5b4; margin-top: 2.1rem; margin-bottom: 1rem;'><b>
@@ -41,19 +41,19 @@
   <a href="https://github.com/rllyhz/CAP0104-Capstone-Project" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rllyhz&repo=CAP0104-Capstone-Project&theme=dark" />
   </a>
-  <a href="https://github.com/rllyhz/flutter-chatR-UI">
+  <a href="https://github.com/rllyhz/flutter-chatR-UI" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rllyhz&repo=flutter-chatR-UI&theme=dark" />
   </a>
-  <a href="https://github.com/rllyhz/klasifikasi-status-gizi-menggunakan-algoritma-knn">
+  <a href="https://github.com/rllyhz/klasifikasi-status-gizi-menggunakan-algoritma-knn" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rllyhz&repo=klasifikasi-status-gizi-menggunakan-algoritma-knn&theme=dark" />
   </a>
-  <a href="https://github.com/rllyhz/SunglassesShow-android-expert-Dicoding">
+  <a href="https://github.com/rllyhz/SunglassesShow-android-expert-Dicoding" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rllyhz&repo=SunglassesShow-android-expert-Dicoding&theme=dark" />
   </a>
-  <a href="https://github.com/rllyhz/SunglassesShow-android-jetpack-pro-Dicoding">
+  <a href="https://github.com/rllyhz/SunglassesShow-android-jetpack-pro-Dicoding" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rllyhz&repo=SunglassesShow-android-jetpack-pro-Dicoding&theme=dark" />
   </a>
-  <a href="https://github.com/rllyhz/bfaa-final-submission">
+  <a href="https://github.com/rllyhz/bfaa-final-submission" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rllyhz&repo=bfaa-final-submission&theme=dark" />
   </a>
 </div>
