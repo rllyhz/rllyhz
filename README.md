@@ -86,6 +86,9 @@
   Hola!! 🤗
 </h2>
 
+<img src="https://placehold.it/150/ffffff/ff0000?text=hello" />
+
+
 <!-- https://cdn.svgporn.com/logos/html-5.svg
 https://cdn.svgporn.com/logos/css-3.svg
 https://cdn.svgporn.com/logos/javascript.svg
