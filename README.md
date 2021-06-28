@@ -10,7 +10,7 @@
 [![GitHub Follow](https://img.shields.io/github/followers/rllyhz?label=Follow&style=social)](https://github.com/rllyhz)
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=rllyhz)](https://github.com/rllyhz)
 
-<p style="color: #efc0fe; font-size: 1.26rem; margin-bottom: 2.1rem;">I'm a Software Developer. Based on Semarang, Indonesia.</p>
+<p style="color: #efc0fe; font-size: 1.26rem; margin-bottom: 2.1rem;">I'm a Software Developer. Based on Semarang, Central Java, Indonesia.</p>
 
 <br>
 
