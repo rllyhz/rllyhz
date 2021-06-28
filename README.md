@@ -53,6 +53,9 @@
   <a href="https://github.com/rllyhz/SunglassesShow-android-jetpack-pro-Dicoding">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rllyhz&repo=SunglassesShow-android-jetpack-pro-Dicoding&theme=dark" />
   </a>
+  <a href="https://github.com/rllyhz/bfaa-final-submission">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rllyhz&repo=bfaa-final-submission&theme=dark" />
+  </a>
 </div>
 
 <br>
