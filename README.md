@@ -12,8 +12,6 @@
 
 <p style="color: #efc0fe; font-size: 1.26rem; margin-bottom: 2.1rem;">I'm a Software Developer. Based on Semarang, Central Java, Indonesia.</p>
 
-<br>
-
 <h2><strong style="color: #ffe5b4;">Personal Stuff:</strong></h2>
 <ul style="color: #efc0fe; font-size: 1.2rem;">
   <li>👨‍💻 I’m currently working on my campus project.</li>
@@ -22,9 +20,6 @@
   <li>🤔 Looking for my latest repo, <a style='color: #ff66cc;' href='https://github.com/rllyhz/flutter-chatR-UI'>flutter-chatR-UI</a> ?</li>
   <li>📫 Find me on <a style='color: #ff66cc;' href="https://twitter.com/rullyihza_">Twitter</a>, <a style='color: #ff66cc;' href="https://instagram.com/rllyhz">Instagram</a> or <a style='color: #ff66cc;' href="https://www.facebook.com/rully.ihza/">Facebook</a>.</li>
 </ul>
-
-<br>
-
 
 <h2 style='color: #ffe5b4; margin-top: 2.1rem; margin-bottom: 1rem;'><b>
   My Updated Stats Profile 🤖🔥
