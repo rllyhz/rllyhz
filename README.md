@@ -1,8 +1,8 @@
 <div style="color: #fc6c85;">
-  <p style="font-size: 2.1rem;"><strong>
+  <h1  style="font-size: 1.6rem;"><strong>
     Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-  </strong></p>
-  <h1  style="font-size: 1.6rem;"><strong>I'm Rully Ihza Mahendra.</strong></h1>
+    <br>I'm Rully Ihza Mahendra.
+  </strong></h1>
 </div>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/rullyihza_?label=Follow&style=social)](https://twitter.com/rullyihza_)
