@@ -12,7 +12,7 @@
 
 <p style="color: #efc0fe; font-size: 1.26rem; margin-bottom: 2.1rem;">I'm a Software Developer. Based on Semarang, Indonesia.</p>
 
-<br><br>
+<br>
 
 <h2><strong style="color: #ffe5b4;">Personal Stuff:</strong></h2>
 <ul style="color: #efc0fe; font-size: 1.2rem;">
@@ -23,7 +23,7 @@
   <li>📫 Find me on <a style='color: #ff66cc;' href="https://twitter.com/rullyihza_">Twitter</a>, <a style='color: #ff66cc;' href="https://instagram.com/rllyhz">Instagram</a> or <a style='color: #ff66cc;' href="https://www.facebook.com/rully.ihza/">Facebook</a>.</li>
 </ul>
 
-<br><br>
+<br>
 
 
 <h2 style='color: #ffe5b4; margin-top: 2.1rem; margin-bottom: 1rem;'><b>
@@ -36,7 +36,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rllyhz&theme=dark&hide_langs_below=0.4" />
 </a>
 
-<br><br>
+<br>
 
 <h2 style="color: #ffe5b4;margin-top: 2.1rem;"><strong>
   Highlights 💻⚡
@@ -60,7 +60,7 @@
   </a>
 </div>
 
-<br><br>
+<br>
 <!-- <img align="right" alt="GIF" height="130px" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" /> -->
 <h2 style='color: #ffe5b4; margin-top: 2.1rem; margin-bottom: 1rem;'><b>I love all of them 💙🦉<b></h2>
 
@@ -73,7 +73,7 @@
   <img width="100px" style="padding: 16px;" src="images/php.svg">
 </div>
 
-<br><br>
+<br>
 
 <h2 style="color: #ffe5b4; margin-top: 3.1rem; margin-bottom:1rem;"><strong>
   My Social Media 🦉
@@ -82,7 +82,7 @@
 | [<img src="images/Instagram.svg" width="40px" />](https://instagram.com/rllyhz) | [<img src="images/Twitter.svg" width="40px" />](https://twitter.com/rullyihza_) | [<img src="images/Gmail.svg" width="40px" />](mailto:rullyihza00@gmail.com) |
 |  --  | --   |  --  |
 
-<br><br>
+<br>
 
 <h2 style="color: #efc0fe; margin-top: 3.6rem;">
   Hola!! 🤗
