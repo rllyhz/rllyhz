@@ -20,7 +20,7 @@ You can see my credentials here: <a href="https://www.credential.net/e948eae5-be
 <h2><strong style="color: #ffe5b4;">Personal Stuff:</strong></h2>
 <ul style="color: #efc0fe; font-size: 1.2rem;">
   <li>👨‍💻 I’m currently working on my campus project.</li>
-  <li>🌱 I'm currently learning kotlin and flutter.</li>
+  <li>🌱 I'm currently learning Kotlin and Flutter.</li>
   <li>✨ Also really interested in backend-ish things.</li>
   <li>🤔 Looking for my latest repo, <a style='color: #ff66cc;' href='https://github.com/rllyhz/FoodUApp-flutter-fundamental-Dicoding' target="_blank">FoodUApp-flutter-fundamental-Dicoding</a> ?</li>
   <li>💌 Get connection with me on <a style='color: #ff66cc;' href="https://linkedin.com/in/rully-ihza-mahendra" target="_blank">LinkedIn</a>, <a style='color: #ff66cc;' href="https://stackoverflow.com/users/17045891/rllyhz" target="_blank">StackOverflow</a>, <a style='color: #ff66cc;' href="https://twitter.com/rullyihza_" target="_blank">Twitter</a>, <a style='color: #ff66cc;' href="https://instagram.com/rllyhz" target="_blank">Instagram</a> or <a style='color: #ff66cc;' href="https://www.facebook.com/rully.ihza/" target="_blank">Facebook</a>.</li>
@@ -67,7 +67,7 @@ You can see my credentials here: <a href="https://www.credential.net/e948eae5-be
 
 <br>
 <!-- <img align="right" alt="GIF" height="130px" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" /> -->
-<h2 style='color: #ffe5b4; margin-top: 2.1rem; margin-bottom: 1rem;'><b>I love all of them 💙🦉<b></h2>
+<h2 style='color: #ffe5b4; margin-top: 2.1rem; margin-bottom: 1rem;'><b>I love all of these 💙🦉<b></h2>
 
 <div style="background-color: #ffd1dc; width: 100%;display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap; border-radius: 8px; box-shadow: 0 24px 32px rgba(0,0,0,.4);">
   <img width="70px" style="padding: 16px;" src="images/kotlin.svg">
