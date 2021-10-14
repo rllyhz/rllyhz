@@ -10,9 +10,12 @@
 [![GitHub Follow](https://img.shields.io/github/followers/rllyhz?label=Follow&style=social)](https://github.com/rllyhz)
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=rllyhz)](https://github.com/rllyhz)
 
-<p style="color: #efc0fe; font-size: 1.26rem; margin-bottom: 0">I'm a Google Certified Associate Android Developer 👨‍💻.</p>
-<p style="color: #efc0fe; font-size: 1.26rem; margin-bottom: .56rem">Based on Semarang, Central Java, Indonesia.</p>
-<p style="color: #efc0fe; font-size: 1.26rem;">You can see my credentials here: <a href="https://www.credential.net/e948eae5-beb6-4d40-b4ea-f026bb6b89e2" target="_blank">link</a> 🎗</p>
+<!-- <p style="color: #efc0fe; font-size: 1.26rem; margin-bottom: 0"></p> -->
+I'm a Google Certified Associate Android Developer 👨‍💻. </br>
+Based on Semarang, Central Java, Indonesia. </br></br>
+You can see my credentials here: <a href="https://www.credential.net/e948eae5-beb6-4d40-b4ea-f026bb6b89e2" target="_blank">link</a> 🎗
+<!-- <p style="color: #efc0fe; font-size: 1.26rem; margin-bottom: .56rem"></p> -->
+<!-- <p style="color: #efc0fe; font-size: 1.26rem;"></p> -->
 
 <h2><strong style="color: #ffe5b4;">Personal Stuff:</strong></h2>
 <ul style="color: #efc0fe; font-size: 1.2rem;">
