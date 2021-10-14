@@ -10,7 +10,7 @@
 [![GitHub Follow](https://img.shields.io/github/followers/rllyhz?label=Follow&style=social)](https://github.com/rllyhz)
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=rllyhz)](https://github.com/rllyhz)
 
-<p style="color: #efc0fe; font-size: 1.26rem; margin-bottom: 2.1rem;">I'm a Google Certified Associate Android Developer 👨‍💻. Based on Semarang, Central Java, Indonesia.</p> </br>
+<p style="color: #efc0fe; font-size: 1.26rem; margin-bottom: 1.2rem;">I'm a Google Certified Associate Android Developer 👨‍💻. Based on Semarang, Central Java, Indonesia.</p>
 <p style="color: #efc0fe; font-size: 1.26rem; margin-bottom: 2.1rem;">You can see my credentials here: <a href="https://www.credential.net/e948eae5-beb6-4d40-b4ea-f026bb6b89e2">click here 🎗</a></p>
 
 <h2><strong style="color: #ffe5b4;">Personal Stuff:</strong></h2>
