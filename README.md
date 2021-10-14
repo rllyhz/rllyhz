@@ -23,7 +23,7 @@ You can see my credentials here: <a href="https://www.credential.net/e948eae5-be
   <li>🌱 I'm currently learning kotlin and flutter.</li>
   <li>✨ Also really interested in backend-ish things.</li>
   <li>🤔 Looking for my latest repo, <a style='color: #ff66cc;' href='https://github.com/rllyhz/FoodUApp-flutter-fundamental-Dicoding' target="_blank">FoodUApp-flutter-fundamental-Dicoding</a> ?</li>
-  <li>📫 Find me on <a style='color: #ff66cc;' href="https://twitter.com/rullyihza_" target="_blank">Twitter</a>, <a style='color: #ff66cc;' href="https://instagram.com/rllyhz" target="_blank">Instagram</a> or <a style='color: #ff66cc;' href="https://www.facebook.com/rully.ihza/" target="_blank">Facebook</a>.</li>
+  <li>💌 Get connection with me on <a style='color: #ff66cc;' href="https://linkedin.com/in/rully-ihza-mahendra" target="_blank">LinkedIn</a>, <a style='color: #ff66cc;' href="https://stackoverflow.com/users/17045891/rllyhz" target="_blank">StackOverflow</a>, <a style='color: #ff66cc;' href="https://twitter.com/rullyihza_" target="_blank">Twitter</a>, <a style='color: #ff66cc;' href="https://instagram.com/rllyhz" target="_blank">Instagram</a> or <a style='color: #ff66cc;' href="https://www.facebook.com/rully.ihza/" target="_blank">Facebook</a>.</li>
 </ul>
 
 <h2 style='color: #ffe5b4; margin-top: 2.1rem; margin-bottom: 1rem;'><b>
