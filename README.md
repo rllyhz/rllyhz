@@ -10,14 +10,15 @@
 [![GitHub Follow](https://img.shields.io/github/followers/rllyhz?label=Follow&style=social)](https://github.com/rllyhz)
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=rllyhz)](https://github.com/rllyhz)
 
-<p style="color: #efc0fe; font-size: 1.26rem; margin-bottom: 2.1rem;">I'm a Software Developer. Based on Semarang, Central Java, Indonesia.</p>
+<p style="color: #efc0fe; font-size: 1.26rem; margin-bottom: 2.1rem;">I'm a Google Certified Associate Android Developer 👨‍💻. Based on Semarang, Central Java, Indonesia.</p> </br>
+<p style="color: #efc0fe; font-size: 1.26rem; margin-bottom: 2.1rem;">You can see my credentials here: <a href="https://www.credential.net/e948eae5-beb6-4d40-b4ea-f026bb6b89e2">click here 🎗</a></p>
 
 <h2><strong style="color: #ffe5b4;">Personal Stuff:</strong></h2>
 <ul style="color: #efc0fe; font-size: 1.2rem;">
   <li>👨‍💻 I’m currently working on my campus project.</li>
   <li>🌱 I'm currently learning kotlin and flutter.</li>
   <li>✨ Also really interested in backend-ish things.</li>
-  <li>🤔 Looking for my latest repo, <a style='color: #ff66cc;' href='https://github.com/rllyhz/flutter-chatR-UI' target="_blank">flutter-chatR-UI</a> ?</li>
+  <li>🤔 Looking for my latest repo, <a style='color: #ff66cc;' href='https://github.com/rllyhz/FoodUApp-flutter-fundamental-Dicoding' target="_blank">FoodUApp-flutter-fundamental-Dicoding</a> ?</li>
   <li>📫 Find me on <a style='color: #ff66cc;' href="https://twitter.com/rullyihza_" target="_blank">Twitter</a>, <a style='color: #ff66cc;' href="https://instagram.com/rllyhz" target="_blank">Instagram</a> or <a style='color: #ff66cc;' href="https://www.facebook.com/rully.ihza/" target="_blank">Facebook</a>.</li>
 </ul>
 
