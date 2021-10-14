@@ -92,6 +92,8 @@ You can see my credentials here: <a href="https://www.credential.net/e948eae5-be
 <h2 style="color: #efc0fe; margin-top: 3.6rem;">
   Hola!! 🤗
 </h2>
+  
+  Also see my github pages -> <a href="https://rllyhz.github.io/">here</a>
 
 <!-- https://cdn.svgporn.com/logos/html-5.svg
 https://cdn.svgporn.com/logos/css-3.svg
