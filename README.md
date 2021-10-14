@@ -78,7 +78,7 @@ You can see my credentials here: <a href="https://www.credential.net/e948eae5-be
   <img width="100px" style="padding: 16px;" src="images/php.svg">
 </div>
   
- <br />Extremely favs 🔥 -> less favs 🪂☄
+ <br />Extremely favs 😻🔥 -> less favs 🪂☄
 
 <br>
 
