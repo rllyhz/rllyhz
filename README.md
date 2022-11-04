@@ -67,27 +67,27 @@ You can see my credentials here: <a href="https://www.credential.net/e948eae5-be
 
 <!-- <br> -->
 <!-- <img align="right" alt="GIF" height="130px" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" /> -->
-<h2 style='color: #ffe5b4; margin-top: 2.1rem; margin-bottom: 1rem;'><b>I love all of these 💙🦉<b></h2>
+<!-- <h2 style='color: #ffe5b4; margin-top: 2.1rem; margin-bottom: 1rem;'><b>I love all of these 💙🦉<b></h2> -->
 
-<div style="background-color: #ffd1dc; width: 100%;display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap; border-radius: 8px; box-shadow: 0 24px 32px rgba(0,0,0,.4);">
+<!-- <div style="background-color: #ffd1dc; width: 100%;display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap; border-radius: 8px; box-shadow: 0 24px 32px rgba(0,0,0,.4);">
   <img width="70px" style="padding: 16px;" src="images/kotlin.svg">
   <img width="80px" style="padding: 16px;" src="images/dart.svg">
   <img width="80px" style="padding: 16px;" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp">
   <img width="80px" style="padding: 16px;" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp">
   <img width="70px" style="padding: 16px;" src="images/java.svg">
   <img width="100px" style="padding: 16px;" src="images/php.svg">
-</div>
+</div> -->
   
  <--! <br />Extremely Favs 😻🔥 ->  Less Favs 🪂☄ -->
 
-<br>
+<!-- <br> -->
 
-<h2 style="color: #ffe5b4; margin-top: 3.1rem; margin-bottom:1rem;"><strong>
+<!-- <h2 style="color: #ffe5b4; margin-top: 3.1rem; margin-bottom:1rem;"><strong>
   Email me here ✉
-</strong></h2>
+</strong></h2> -->
 
-| [<img src="images/Instagram.svg" width="40px" />](https://instagram.com/rllyhz) | [rullyihza00@gmail.com](mailto:rullyihza00@gmail.com) |
-|  --  | --   |
+<!-- | [<img src="images/Instagram.svg" width="40px" />](https://instagram.com/rllyhz) | [rullyihza00@gmail.com](mailto:rullyihza00@gmail.com) | -->
+<!-- |  --  | --   | -->
 
 <br>
 
@@ -95,7 +95,7 @@ You can see my credentials here: <a href="https://www.credential.net/e948eae5-be
   Hola!! 🤗
 </h2>
   
-  Also see my github pages -> <a href="https://rllyhz.github.io/" target="_blank">here</a>
+  Also see my github pages -> <a href="https://rllyhz.github.io/" target="_blank">https://rllyhz.github.io</a>
 
 <!-- https://cdn.svgporn.com/logos/html-5.svg
 https://cdn.svgporn.com/logos/css-3.svg
