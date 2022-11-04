@@ -13,16 +13,16 @@
 <!-- <p style="color: #efc0fe; font-size: 1.26rem; margin-bottom: 0"></p> -->
 I'm a Google Certified Associate Android Developer 👨‍💻. </br>
 Based on Semarang, Central Java, Indonesia. </br></br>
-You can see my credentials here: <a href="https://www.credential.net/e948eae5-beb6-4d40-b4ea-f026bb6b89e2" target="_blank">link</a> 🎗
+You can see my credentials here: <a href="https://www.credential.net/e948eae5-beb6-4d40-b4ea-f026bb6b89e2?key=d12f12ed014711d9a40e0e19866d469462b690cfbcd597dbfda4048ff4cad91d&record_view=true" target="_blank">link</a> 🎗
 <!-- <p style="color: #efc0fe; font-size: 1.26rem; margin-bottom: .56rem"></p> -->
 <!-- <p style="color: #efc0fe; font-size: 1.26rem;"></p> -->
 
 <h2><strong style="color: #ffe5b4;">Personal Stuff:</strong></h2>
 <ul style="color: #efc0fe; font-size: 1.2rem;">
-  <li>👨‍💻 I’m currently working on my campus project.</li>
+  <!-- <li>👨‍💻 I’m currently working on my campus project.</li> -->
   <li>🌱 I'm currently learning Kotlin and Flutter.</li>
-  <li>✨ Also really interested in backend-ish things.</li>
-  <li>🤔 Looking for my latest repo, <a style='color: #ff66cc;' href='https://github.com/rllyhz/FoodUApp-flutter-fundamental-Dicoding' target="_blank">FoodUApp-flutter-fundamental-Dicoding</a> ?</li>
+  <!-- <li>✨ Also really interested in backend-ish things.</li> -->
+  <li>🤔 Looking for my latest repo, <a style='color: #ff66cc;' href='https://github.com/rllyhz/pullrefresh-compose' target="_blank">Pullrefresh Compose</a> ?</li>
   <li>💌 Get connection with me on <a style='color: #ff66cc;' href="https://linkedin.com/in/rully-ihza-mahendra" target="_blank">LinkedIn</a>, <a style='color: #ff66cc;' href="https://stackoverflow.com/users/17045891/rllyhz" target="_blank">StackOverflow</a>, <a style='color: #ff66cc;' href="https://twitter.com/rullyihza_" target="_blank">Twitter</a>, <a style='color: #ff66cc;' href="https://instagram.com/rllyhz" target="_blank">Instagram</a> or <a style='color: #ff66cc;' href="https://www.facebook.com/rully.ihza/" target="_blank">Facebook</a>.</li>
 </ul>
 
@@ -40,11 +40,11 @@ You can see my credentials here: <a href="https://www.credential.net/e948eae5-be
 
 <br>
 
-<h2 style="color: #ffe5b4;margin-top: 2.1rem;"><strong>
+<!-- <h2 style="color: #ffe5b4;margin-top: 2.1rem;"><strong>
   Highlights 💻⚡
-</strong></h2>
+</strong></h2> -->
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 8px; margin-top: 1rem;">
+<!-- <div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 8px; margin-top: 1rem;">
   <a href="https://github.com/rllyhz/CAP0104-Capstone-Project" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rllyhz&repo=CAP0104-Capstone-Project&theme=dark" />
   </a>
@@ -63,9 +63,9 @@ You can see my credentials here: <a href="https://www.credential.net/e948eae5-be
   <a href="https://github.com/rllyhz/bfaa-final-submission" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rllyhz&repo=bfaa-final-submission&theme=dark" />
   </a>
-</div>
+</div> -->
 
-<br>
+<!-- <br> -->
 <!-- <img align="right" alt="GIF" height="130px" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" /> -->
 <h2 style='color: #ffe5b4; margin-top: 2.1rem; margin-bottom: 1rem;'><b>I love all of these 💙🦉<b></h2>
 
@@ -78,7 +78,7 @@ You can see my credentials here: <a href="https://www.credential.net/e948eae5-be
   <img width="100px" style="padding: 16px;" src="images/php.svg">
 </div>
   
- <br />Extremely Favs 😻🔥 ->  Less Favs 🪂☄
+ <--! <br />Extremely Favs 😻🔥 ->  Less Favs 🪂☄ -->
 
 <br>
 
